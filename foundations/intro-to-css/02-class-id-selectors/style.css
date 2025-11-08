@@ -1,1 +1,17 @@
-.pink-text {color: rgb(red, rgb(247, 178, 199), blue)}
+.odd { 
+    font-family: verdana, "dejavu sans", sans-serif;
+    background-color: rgb(from rgb(230, 149, 162) r g b);
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.font-size {font-size: 24px;}
